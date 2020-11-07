@@ -5,7 +5,7 @@
 ## Team Number: Team27
 
 ### Problem Number: 8
-Problem Statement: Virtual Reality in education opens up a whole new arena of learning. 
+### Problem Statement: Virtual Reality in education opens up a whole new arena of learning. 
 
 For example, teaching science. With its help, one can depict chemical reactions, physical processes break them down into elements to explain visually in much detail. On the other hand — it also may greatly help to model experiments. It will be easy to demonstrate biological processes, students will be able to visualise the vital organs in a much better way. Design a similar VR model which will enhance teaching and learning experience. 
 
@@ -32,6 +32,6 @@ Linkedin: https://www.linkedin.com/in/iyashjayesh/
 Instagram:  https://www.instagram.com/iyashjayesh/
 Twitter: https://twitter.com/iyashjayesh
 
-### Email: er.yashjayeshchauhan@gmail.com
+#### Email: er.yashjayeshchauhan@gmail.com
 
 ### Thank you!
