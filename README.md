@@ -2,7 +2,7 @@
 
 ## Team Name: Wody 
 ## Team Leader Name: Yash Chauhan
-## Team Number: Team27
+## Team Number: Team24
 
 ### Problem Number: 8
 ### Problem Statement: Virtual Reality in education opens up a whole new arena of learning. 
@@ -13,12 +13,11 @@ For example, teaching science. With its help, one can depict chemical reactions,
 We’ll be using Unity Engine to develop this application that can be run on any android devices. We’ll also try to use various 3d models with animation for the better understanding of concepts. We’ll also try to integrate Augmented reality with this application to make it more intractable for the students.  
 
 ### Technical Stack:
-- Programming Language: C# & node.js
+- Programming Language: C# 
 - Software: Unity Engine (Version 2019.4.14f1 LTS) & Blender
 - UI/UX: Adobe XD or Figma
 - SDK: VR sdk
 - APIs: Various Augmented Reality and Virtual Reality we’ll use.
-- Hosting: Azure or AWS for better performance
 
 ### Why did I choose this problem?
 I have 1.2 years of experience in this particular domain. I'm even representing “Unity” as a Student Ambassador at my University. As a Student Ambassador my role is to organize Handson Workshops, Seminars and many more. I have even prepared multiple projects in the domain of Augmented Reality, Virtual reality, Mixed Reality, Game development and many more. My Augmented Reality project got featured on Unity's official Youtube channel and in the Unite India 2019 conference (Unity Largest Conference of India). 
