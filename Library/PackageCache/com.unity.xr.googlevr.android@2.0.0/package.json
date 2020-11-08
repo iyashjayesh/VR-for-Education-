@@ -1,0 +1,28 @@
+{
+  "name": "com.unity.xr.googlevr.android",
+  "displayName": "Google VR Android",
+  "version": "2.0.0",
+  "unity": "2019.3",
+  "description": "*** IMPORTANT : READ ME ***\n\nThis package is deprecated and will be removed in Unity 2020.1.\n\nMore information with the latest recommendation can be found here <https://developers.google.com/vr/develop/unity/get-started-android>\n\nThis package contains the necessary components required to use the Google VR Virtual Reality SDK on Android. By using this package, you will be able to deploy and run your applications on Daydream/Cardboard supported devices.",
+  "keywords": [
+    "google",
+    "xr",
+    "vr",
+    "ar",
+    "virtual",
+    "cardboard",
+    "daydream",
+    "sdk",
+    "android",
+    "gvr",
+    "deprecated"
+  ],
+  "dependencies": {
+    "com.unity.google.resonance.audio": "2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Unity-Technologies/com.unity.xr.googlevr.git",
+    "revision": "9fa1eeb502d10e2855ad875ade1ffaf86c47d434"
+  }
+}

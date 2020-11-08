@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-land_settings_button.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout-land\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-land_back_button.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout-land\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_back_button.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v21_rippleable.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-v21\\rippleable.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout-land\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_rippleable.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable\\rippleable.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-mdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_vr_icon_front.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\75b315a8bb66bcc5e8d19682d0b3ca85\\res\\drawable-nodpi-v4\\vr_icon_front.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-xxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_transition_view.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout\\transition_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_vr_icon_back.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\75b315a8bb66bcc5e8d19682d0b3ca85\\res\\drawable-nodpi-v4\\vr_icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_settings_button.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-xxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout-ldrtl-land-v17\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-ldrtl-v17_back_button.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout-ldrtl-v17\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout-ldrtl-land-v17\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-xhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_ui_layer.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\layout-ldrtl-v17\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-xhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\drawable-mdpi-v4\\transition.png"
+    }
+]

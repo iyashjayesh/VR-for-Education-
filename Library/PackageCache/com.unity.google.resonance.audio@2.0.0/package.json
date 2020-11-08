@@ -1,0 +1,23 @@
+{
+  "name": "com.unity.google.resonance.audio",
+  "displayName": "Google Resonance Audio",
+  "version": "2.0.0",
+  "unity": "2019.3",
+  "description": "*** IMPORTANT : READ ME ***\n\nThis package is deprecated and will be removed in Unity 2020.1.\n\nThis package contains audio spatializer libraries for use with Unity spatial audio. This package is included with the Google VR packages for use with Daydream and Cardboard.",
+  "keywords": [
+    "google",
+    "cardboard",
+    "daydream",
+    "gvr",
+    "resonance",
+    "audio",
+    "spatialize",
+    "deprecated"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Unity-Technologies/com.unity.xr.googlevr.git",
+    "revision": "9fa1eeb502d10e2855ad875ade1ffaf86c47d434"
+  }
+}

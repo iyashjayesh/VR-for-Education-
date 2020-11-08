@@ -1,0 +1,4 @@
+#Sun Nov 08 14:44:13 IST 2020
+base.0=C\:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

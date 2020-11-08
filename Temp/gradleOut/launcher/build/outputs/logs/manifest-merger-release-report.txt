@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:3:1-67:12
+MERGED from [:gvr-keyboard:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\3edcbeda01da6d2de3eeeba19af3b28a\AndroidManifest.xml:2:1-11:12
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:2:1-31:12
+MERGED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:2:1-30:12
+MERGED from [:gvr:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\099915558fbdfbffe689a755b61d2ab1\AndroidManifest.xml:2:1-9:12
+MERGED from [:unitygvr:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\75b315a8bb66bcc5e8d19682d0b3ca85\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:70-101
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:102-148
+	android:versionCode
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:149-189
+supports-screens
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-65:19
+MERGED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-65:19
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:11:5-28:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:11:5-28:19
+	android:supportsRtl
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:allowBackup
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:49-80
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:18-56
+uses-sdk
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:gvr-keyboard:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\3edcbeda01da6d2de3eeeba19af3b28a\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboard:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\3edcbeda01da6d2de3eeeba19af3b28a\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\099915558fbdfbffe689a755b61d2ab1\AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\099915558fbdfbffe689a755b61d2ab1\AndroidManifest.xml:5:5-7:41
+MERGED from [:unitygvr:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\75b315a8bb66bcc5e8d19682d0b3ca85\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygvr:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\75b315a8bb66bcc5e8d19682d0b3ca85\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:19-51
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-77
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-48:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.CARDBOARD
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-40:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:27-74
+category#com.google.intent.category.CARDBOARD
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:17-81
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:27-78
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-44:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-53
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:9-52:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-61
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:37
+	android:value
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-34
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:68
+	android:value
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-42
+activity#com.google.gvr.keyboardsupport.TransitionVRActivity
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:17:9-28:20
+	android:label
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:21:13-37
+	android:resizeableActivity
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:19:13-100
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:18:13-79
+intent-filter#category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:24:13-27:29
+category#com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:26:17-80
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\af91d4a10706a23a5e9cc5f095dae172\AndroidManifest.xml:26:27-77
+activity#com.google.gvr.permissionsupport.TransitionVRActivity
+ADDED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:21:13-37
+	android:configChanges
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:19:13-100
+	android:name
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\yashy\.gradle\caches\transforms-2\files-2.1\e4535167aa9ae39478bc2eb11e11f42b\AndroidManifest.xml:18:13-81

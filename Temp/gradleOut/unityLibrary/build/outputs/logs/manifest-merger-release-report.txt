@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-25:12
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-25:12
+	package
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:70-98
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-25:12
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:99-145
+	android:versionCode
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-25:12
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:4:3-19:17
+	android:theme
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:4:16-54
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:5-13:16
+	android:screenOrientation
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:111-149
+	android:launchMode
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:150-181
+	android:hardwareAccelerated
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:364-399
+	android:configChanges
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:182-363
+	android:theme
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:69-110
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.CARDBOARD
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:19-66
+category#com.google.intent.category.CARDBOARD
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:9:9-73
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:9:19-70
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:11:18-58
+meta-data#android.notch_support
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:12:7-78
+	android:value
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:12:55-75
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:12:18-54
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:14:5-88
+	android:value
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:14:65-85
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:14:16-64
+meta-data#unity.splash-mode
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:5-75
+	android:value
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:51-72
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:16-50
+meta-data#notch.config
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:17:5-81
+	android:value
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:17:44-78
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:17:16-43
+meta-data#unity.build-id
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:18:5-101
+	android:value
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:18:46-98
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:18:16-45
+uses-feature#0x00030000
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:20:3-52
+	android:glEsVersion
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:20:17-49
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:21:3-78
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:21:20-75
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:22:3-88
+	android:required
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:22:61-85
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:22:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:23:3-99
+	android:required
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:23:72-96
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:23:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:24:3-108
+	android:required
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:24:81-105
+	android:name
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:24:17-80
+uses-sdk
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yashy\Downloads\Tic Tac Toe\VR projects\Wody\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml

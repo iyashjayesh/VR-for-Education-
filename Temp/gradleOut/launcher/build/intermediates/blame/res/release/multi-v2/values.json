@@ -1,0 +1,73 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "391",
+                        "endColumns": "45",
+                        "endOffsets": "432"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "79,92,95",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6307,6881,7019",
+                        "endLines": "80,94,98",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "6402,7014,7241"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yashy\\.gradle\\caches\\transforms-2\\files-2.1\\099915558fbdfbffe689a755b61d2ab1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,9,12,15,18,21,24,27,30,33,36,39,42,46,51,54,57,58,61,64,67,70,73,76,81,84,86,99",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,162,216,271,329,487,722,1030,1321,1508,1849,2191,2394,2595,2809,3023,3158,3458,3826,4136,4366,4573,4779,5064,5389,5596,5899,6112,6407,6570,6634,7246",
+                        "endLines": "2,3,4,5,6,11,14,17,20,23,26,29,32,35,38,41,45,49,53,56,57,60,63,66,69,72,75,78,83,85,91,105",
+                        "endColumns": "56,53,54,57,61,11,13,11,11,11,13,13,11,11,11,11,11,11,13,11,206,13,13,13,11,13,13,13,8,8,8,8",
+                        "endOffsets": "157,211,266,324,386,717,1025,1316,1503,1844,2186,2389,2590,2804,3018,3153,3453,3753,4131,4361,4568,4774,5059,5384,5591,5894,6107,6302,6565,6629,6876,7596"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yashy\\Downloads\\Tic Tac Toe\\VR projects\\Wody\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "55,-1",
+                        "endColumns": "47,-1",
+                        "endOffsets": "100,-1"
+                    },
+                    "to": {
+                        "startLines": "8,50",
+                        "startColumns": "4,4",
+                        "startOffsets": "437,3758",
+                        "endColumns": "49,67",
+                        "endOffsets": "482,3821"
+                    }
+                }
+            ]
+        }
+    ]
+}
