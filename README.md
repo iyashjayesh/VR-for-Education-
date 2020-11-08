@@ -10,7 +10,7 @@
 For example, teaching science. With its help, one can depict chemical reactions, physical processes break them down into elements to explain visually in much detail. On the other hand — it also may greatly help to model experiments. It will be easy to demonstrate the vital organs in a much better way. Design a similar VR model which will enhance teaching and learning experience. 
 
 ### How will we solve this problem?
-We’ll be using Unity Engine to develop this application that can be run on any android devices. We’ll also try to use various 3d models with animation for the better understanding of concepts. We’ll also try to integrate Augmented reality with this application to make it more intractable for the students.  
+We have used Unity Engine to develop this entire application that can be run on any android devices. We’ll also try to use various 3d models with animation for the better understanding of concepts. We’ll also try to integrate Augmented reality with this application to make it more intractable for the students. 
 
 ### Technical Stack:
 - Programming Language: C# 
