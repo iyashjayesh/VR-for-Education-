@@ -20,9 +20,6 @@ We have used Unity Engine to develop this entire application that can be run on 
 - SDK: VR sdk
 - APIs: Various Augmented Reality and Virtual Reality we’ll use.
 
-### Tagline
-WRITE A SHORT, SHARP AND ON POINT DESCRIPTION OF YOUR PROJECT
-
 ### The problem it solves
 Most of what students learn today is in theoretical form, and this theory is so disconnected from the real world that when a student sees the professional world for the first time as an intern, it is always a huge surprise. If the current education system was relevant and in line with what’s required of modern professionals, this would not be the case. We have tried to integrate the Virtual with the real world so that it can give a wonderful experience to the students for learning.
 
