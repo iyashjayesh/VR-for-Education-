@@ -9,6 +9,12 @@ For example, teaching science. With its help, one can depict chemical reactions,
 ### How will we solve this problem?
 We have used Unity Engine to develop this entire application that can be run on any android devices. We’ll also try to use various 3d models with animation for the better understanding of concepts. We’ll also try to integrate Augmented reality with this application to make it more intractable for the students. 
 
+### Pictures
+![Wody - 003 - Android - Unity 2019 4 14f1 _DX11_ 08-11-2020 16_34_17 (2)](https://user-images.githubusercontent.com/53042582/98520882-b8754a80-2298-11eb-9789-150c70a5619f.png)
+![Wody - 01 - Android - Unity 2019 4 14f1 _DX11_ 08-11-2020 16_43_04 (2)](https://user-images.githubusercontent.com/53042582/98520843-a85d6b00-2298-11eb-9dec-2cee0b191ae8.png)
+![Wody - 003 - Android - Unity 2019 4 14f1 _DX11_ 08-11-2020 16_35_56 (2)](https://user-images.githubusercontent.com/53042582/98520929-c62ad000-2298-11eb-8f32-bfe7ccf46fe1.png)
+![Wody - 03 - Android - Unity 2019 4 14f1 _DX11_ 08-11-2020 16_39_55 (2)](https://user-images.githubusercontent.com/53042582/98520975-d5aa1900-2298-11eb-9c60-088acf150e47.png)
+
 ### Technical Stack:
 - Programming Language: C# 
 - Software: Unity Engine (Version 2019.4.14f1 LTS) & Blender
@@ -49,12 +55,6 @@ There was a power cut in my town I was so excited about the event and after atte
 
 ### Video Demo
 ## https://drive.google.com/drive/folders/1YAv2j1MWMjkpdiuh101dOxrcjdFoKMq0?usp=sharing
-
-### Pictures
-![Wody - 003 - Android - Unity 2019 4 14f1 _DX11_ 08-11-2020 16_34_17 (2)](https://user-images.githubusercontent.com/53042582/98520882-b8754a80-2298-11eb-9789-150c70a5619f.png)
-![Wody - 01 - Android - Unity 2019 4 14f1 _DX11_ 08-11-2020 16_43_04 (2)](https://user-images.githubusercontent.com/53042582/98520843-a85d6b00-2298-11eb-9dec-2cee0b191ae8.png)
-![Wody - 003 - Android - Unity 2019 4 14f1 _DX11_ 08-11-2020 16_35_56 (2)](https://user-images.githubusercontent.com/53042582/98520929-c62ad000-2298-11eb-8f32-bfe7ccf46fe1.png)
-![Wody - 03 - Android - Unity 2019 4 14f1 _DX11_ 08-11-2020 16_39_55 (2)](https://user-images.githubusercontent.com/53042582/98520975-d5aa1900-2298-11eb-9c60-088acf150e47.png)
 
 ### Why did I choose this problem?
 I have 1.2 years of experience in this particular domain. I'm even representing “Unity” as a Student Ambassador at my University. As a Student Ambassador my role is to organize Handson Workshops, Seminars and many more. I have even prepared multiple projects in the domain of Augmented Reality, Virtual reality, Mixed Reality, Game development and many more. My Augmented Reality project got featured on Unity's official Youtube channel and in the Unite India 2019 conference (Unity Largest Conference of India). 
